@@ -14,10 +14,6 @@ Your character is **Not Exceptional**. They have a specialty represented by thei
 
 **There is no central system of price fixing** or guaranteed availability of any particular items in any particular place. The abilities to buy land, start a business, travel overland, buy or sell goods, associate with certain people, or even possess certain items are neither commonplace nor consistent. From swords to spells to accommodations, sometimes you can buy them at market, sometimes you can’t even own them. Wealth represents your position in society, not the other way around. The top 1% will always have credit available to them, a peasant’s gold is worthless in the face of taxes, regulations and plain old thieves.
 
-### 
-
-### 
-
 ### 4 Arenas of Play
 
 There are four Arenas of Play in Round Table that represent four modalities through which one can understand the world and game, and the actions that may be taken as well. Each character and most creatures are proficient in two arenas, meaning they are left vulnerable to the others without support from friends and allies.
@@ -73,9 +69,8 @@ For example, you might add your martial skill to a maneuver that is clearly mart
 
 ##### Results
 
-Whatever your roll is, you subtract the difficulty of the enterprise, either the base difficulty of the locale, or a passive or defensive skill in an opponent. Never an arbitrary number selected by the GM.
-
-#### **For example**, if you swing a sword at someone and get 7-8, you take the 7 and add your skill bonus (+1), resulting in an 8\. If your opponent is only able to passively defend themselves with no skill modifier, their defense is 5, so your **result** is (8-5=) **3**.
+Whatever your roll is, you subtract the difficulty of the enterprise, either the base difficulty of the locale, or a passive or defensive skill in an opponent. Never an arbitrary number selected by the GM.  
+**For example**, if you swing a sword at someone and get 7-8, you take the 7 and add your skill bonus (+1), resulting in an 8\. If your opponent is only able to passively defend themselves with no skill modifier, their defense is 5, so your **result** is (8-5=) **3**.
 
 Whatever the sum of your roll minus the difficulty, that number is your **result**. If the sum is below 0, you have missed entirely. If it is 0-4, you have hit. Sometimes dealing damage is key, so hitting with a 0 is ineffective. If the sum is above 5, you have achieved a **breakthrough**. Different actions will have different consequences, so a breakthrough in dancing is not going to be anything like a breakthrough when hacking a security camera system, but the basic result is the same; you do exceptionally well.
 
@@ -87,10 +82,8 @@ Results give a miss (below 0), a hit with no damage (0), a hit with damage (1-4)
 * If you are looking for information about something, you could find nothing, find a lead that gets you 0-4 data points, or find a really great piece of intel.  
 * If you are looking to subdue a spell, maybe you can’t do so at all, can hold it off for 0-4 rounds, or even end the spell entirely.
 
-The Consequence of your check is not the number value, but the narrative thing that happens because of the check.
-
-#### When the consequence of failure of your check should harm you, you are performing a **Save**. In this case, a negative result of 1-4 or 5 or less is interpreted as a minor or major condition respectively.
-
+The Consequence of your check is not the number value, but the narrative thing that happens because of the check.  
+When the consequence of failure of your check should harm you, you are performing a **Save**. In this case, a negative result of 1-4 or 5 or less is interpreted as a minor or major condition respectively.  
 It is not solely the GM’s responsibility to arbitrate consequences, other players can also do so.  
 Consequences can be conceptualized into the following six possible outcomes to help translate the results of the various mechanics back into narratives.
 
