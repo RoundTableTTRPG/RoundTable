@@ -85,43 +85,30 @@ You can also use your reaction to **Cooperate** with a team member by doing some
 
 You can only use one reaction per round, even if you are faced with multiple attacks or other checks, so choose wisely\!
 
-## 
-
-## 
-
 ## The Characteristics of Tactical Equipment, Including Weapons
 
 ### Weapon Characteristics
 
 Weapons cause damage, detailed in the next section. They also have other features such length of melee weapons, effective range of ranged weapons and the following tags:
 
-* #### **Reload** means you must take an action to reload before each shot, and expend one supply before you use the weapon each day.
-
-* #### **Clip Reload** Allows you to reload only when you use rapid fire, not when you make regular attacks with the weapon in question. You expend one supply before you use the weapon each day.
-
-* #### **Rapid Fire** Allows you to use your weapon to passively attack everything in a 2m area that you designate, as well as creatures passing through or leaving cover in the area for the next round.
-
-* #### **Overkill** allows you to apply damage done to an object or vehicle to all the creatures covered by that object or inside the vehicle.
-
-* #### **Chunky Salsa** If the area of effect of this weapon is enclosed on all but one side, or on all sides by a material that cannot be destroyed by the explosion, the damage from the explosion is contained within the available area, however it is doubled.
+* **Reload** means you must take an action to reload before each shot, and expend one supply before you use the weapon each day.  
+* **Clip Reload** Allows you to reload only when you use rapid fire, not when you make regular attacks with the weapon in question. You expend one supply before you use the weapon each day.  
+* **Rapid Fire** Allows you to use your weapon to passively attack everything in a 2m area that you designate, as well as creatures passing through or leaving cover in the area for the next round.  
+* **Overkill** allows you to apply damage done to an object or vehicle to all the creatures covered by that object or inside the vehicle.  
+* **Chunky Salsa** If the area of effect of this weapon is enclosed on all but one side, or on all sides by a material that cannot be destroyed by the explosion, the damage from the explosion is contained within the available area, however it is doubled.
 
 **Melee weapons** are either short, medium or long, referring to the physical length of the weapon itself.
 
-* #### Short weapons like knives can be concealed, and used in a clinch or when squeezing, but not when riding a mount.
-
-* #### Medium weapons cannot be concealed and cannot be used in a clinch or when squeezing but can be used mounted. 
-
-* #### Long weapons are longer that the wielder is tall, cannot be concealed, or used in a clinch or squeezing, and are debuffed when used inside.
+* Short weapons like knives can be concealed, and used in a clinch or when squeezing, but not when riding a mount.  
+* Medium weapons cannot be concealed and cannot be used in a clinch or when squeezing but can be used mounted.   
+* Long weapons are longer that the wielder is tall, cannot be concealed, or used in a clinch or squeezing, and are debuffed when used inside.
 
 You cannot use **Ranged Weapons** while squeezing or in a clinch unless otherwise stated. They have the following effective ranges:
 
-* #### Thrown weapons have a maximum effective range of 10m, unless otherwise specified. Once thrown, thrown weapons can be collected from the map after the combat as long as your side did not flee or hide to end combat.
-
-* #### Short Range weapons are debuffed on attacks further than 10m within the locale.
-
-* #### Long Range weapons have a range that crosses an entire locale.
-
-* #### Strategic Range weapons are long range, but can also be used to make attacks into a locale from outside it.
+* Thrown weapons have a maximum effective range of 10m, unless otherwise specified. Once thrown, thrown weapons can be collected from the map after the combat as long as your side did not flee or hide to end combat.  
+* Short Range weapons are debuffed on attacks further than 10m within the locale.  
+* Long Range weapons have a range that crosses an entire locale.  
+* Strategic Range weapons are long range, but can also be used to make attacks into a locale from outside it.
 
 ### Armour and Damage
 
@@ -132,8 +119,6 @@ We are therefore presented with a spectrum
 From \-2 up to \+6 damage for weapons, with \+1 and \+2 weapons being common harmful tools and small weapons, and \+3 and \+4 being extremely dangerous lethal weapons, and \+5 and \+6 being devastating military weaponry.  
 Conversely, sports equipment, heavy clothing, and other common protective items are \-1 damage reduction, light military armour being \-2, heavy duty protection being \-3.  
 Equipment lists will specify both damage ratings and damage reduction for weapons and armour, these guides are just to provide some idea of the range involved. Naturally some items like miniguns and full plate armour might exceed the values given here.
-
-## 
 
 ## 
 

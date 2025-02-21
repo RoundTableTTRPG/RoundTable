@@ -34,3 +34,84 @@ Your character has 2 skills, which are deep, unique sets of proficiencies, abili
 **Energy** is used to buff your roll (take the higher dice), or to activate abilities. Because it’s used to buff your rolls and because you roll saves and active defenses, having no energy leaves you defenseless and more likely to suffer harm. When your energy is 0, you should flee. You can regenerate to half your energy by resting for an hour or completely regenerate it by resting for 8 hours.  
 **Social Credit** is used like energy for faction interactions, buffing rolls and activating abilities.  
 **Leveling Points** represent the limits on what your fate opens up to your character when they successfully challenge it. You get 2 when you level up (in addition to adding \+1 to your bonuses). You can use one levelling point to add a new ability from your background or skills, or to add a new proficiency, or to increase your max energy or max Social Credit by 1\.
+
+## The Appendix of Generic Skills That You Assumed Would Have Been in their Respective Chapters But Isn’t, Also a Background
+
+### Generic Background: The Outsider
+
+While most backgrounds are intrinsically linked to the setting and therefore cannot be generic, the Outsider represents someone who lives as an outsider individually, not as an out-group or from another place. They are local but for whatever reason they are aloof and somewhat clueless to the society that surrounds them. This could be the result of their own intrinsic qualities such as a hermetic disposition, or it could be the result of social pressure pushing them out, perhaps because of a feature or disability. First, decide why your character is an Outsider, then align their other attributes with the regular society that your table establishes, keeping the unique attribute that pairs with their other-ness.
+
+#### You likely have an ordinary **name** for your society, but are known by your reclusiveness, for example “Bunker Tom”. If shunned by society, you might be known primarily for the reason you are shunned.
+
+You may have a distinctive **physical appearance** that may be tied to your reclusiveness, such as a prominent birthmark that you hide with a mask.  
+People may recognize something unique in your **auditory cue** as you use outdated slang, or no slang at all, and possibly mispronounce words you have only ever read, talk to yourself, or use the wrong volume when speaking.  
+**Independent Mind**  
+Your years of solitude may not prepare you well for some social situations, but they also mean you instinctively come to your own conclusions rather than relying on others and ask questions that are often avoided. 
+
+* You gain \+1 intel point whenever you hit with an investigation of a faction.
+
+**Abilities**  
+You can acquire the following abilities regardless of your arenas of play, adding your proficiency bonus to them. You do not automatically get all these abilities, but can take them as you level up by spending 1 levelling point each if you choose  
+.
+
+* **Quiet Presence** You are proficient in maneuvering without being seen.  
+* **Legend Lore** You gain the Major Arcanum Legend.  
+* **Magic Shy** You gain the Arcane Veil Minor Arcanum.  
+* **Secret Place** You can establish a safehouse as a personal asset.  
+* **Without A Trace** You are proficient in recon checks to hide.
+
+### 
+
+### 
+
+### Generic Martial Skill: The Brawler
+
+A brawler is an informally trained martial artist focusing on hand-to-hand and practical combat skills. They are often focused on their own safety and security, with a philosophy that projecting violence can keep you from being victimized by it.  
+You are proficient with everyday weapons that don’t carry social stigmas or restrictions, usually hunting implements and self defense weapons.  
+You are also proficient when engaging in wresting or hand-to-hand combat.  
+You are proficient in tactical maneuvers that allow you to execute a violent action on the same turn.  
+You are proficient in brawling; brutal fist-fighting and wrestling sport matches that are won by the first to inflict a minor condition.
+
+### Generic Magic Skills: The Scholar
+
+Each school of magic has devotees. Whether it is a family or cultural fascination or reputation with a specific school, a personal interest, or simply a lack of options, people commonly develop a lopsided view of the magical arts in favour of their particular school. The Scholar is someone who studies a particular school of magic that you choose.  
+Whenever you learn a Major Arcanum from your specialist school, you can choose to add 1e to its energy requirement and modify any 1 characteristic by 1 step, for example adding a target or reducing the casting time from one minute to one action.  
+You are proficient with the use of magic Books and Cards.  
+You can use the Auxiliary Minor Arcanum, expending 1e to add yourself as the target of a friendly spell.
+
+### Generic Faction Skill: The Diplomat
+
+Wherever there are two factions, or even one faction and non-members, there must be people to go between them and help with communication and trade. Diplomats are naturally empathetic and charismatic, but also somewhat aloof and independent.  
+You can be considered to be a member in good standing of any number of factions, even if they are hostile to eachother. Your relation with any faction member starts off as whatever is plausible and most favourable, rather than most likely.  
+When you are carrying a message or directive from anyone else, you can use that as leverage so long as you are acting directly in scope of delivering that message or directive.  
+When undertaking a long rest, you become aware of all the factions that openly operate in your locale.
+
+### Recon Generic Skills
+
+While the specific skills of the other 3 arenas of play are particular to your setting, the recon skills that rely on expertise in the terrain or creature types are universal to all settings. There is an additional class of Recon skills that represent expertise in a specific region, which of course must be unique to a setting, and therefore will be released in official content. 
+
+**Terrain Experts and Survivalists**  
+When adding this as your character’s skill, specify if they are an expert in Forest, Urban, Grassland, Swamp, Coast or Shield common terrain, for example “Coast Terrain Expert”. Alternatively, specify that they are a survivalist of Desert, Mountain, Ocean, Jungle, or Frozen inhospitable terrain , for example, “Desert Survivalist”.  
+You have a **large pack** that you can give out to another party member that allows them to convert supply to materials specific to your expertise, such as a piton for mountain terrain. It carries 5 supply.  
+You are proficient in all **strategic movement and maneuvers** detailed in the specified terrain type and gain natural movement described there.  
+You are proficient in all **checks and saves** dealing directly with the specified terrain, for example, recon saves while you are in your specialized terrain or checks to find things there.  
+You can always convert **supply** to specific items dealing with the terrain in question, for example sunglasses for desert terrain, an axe for forest terrain, etc. Even when you are not in the specified terrain.  
+You are proficient with all mechanical **mounts and vehicles** that specify their utility in the specified terrain type.
+
+#### Unseen Realms Travelers
+
+When adding this as your character’s skill, specify if they are an expert in Abqaria, the Deep, the Feywild, Manatuana or the Primordial realms.  
+You have a **magic bell** or other indicator that rings when it touches an outsider from the specified realm or when it first enters a locale with an open portal to that realm.  
+You are proficient with **intel checks** to identify that a creature comes from your specified realm, as well as such checks to locate and learn about crossover locations, times and other relevant information to crossing into your specified realm.   
+You are proficient in all **strategic movement and maneuvers** detailed in the specified terrain type and gain natural movement described there.  
+You are proficient in all **checks and saves** dealing directly with the specified terrain, for example, recon saves while you are in your specialized terrain or checks to find things there.  
+You are proficient with **mounts and vehicles** originating in your specified terrain type.
+
+#### Creature Experts
+
+When adding this as your character’s skill, specify if they are an expert in terrestrials, constructs, cthonites, divines, draconids, elementals, fey, primordials or undead, for example, “Undead Expert”.  
+You have a large pack that you can give out to other party members allowing them to convert supply to specific mundane items relevant for finding, identifying, or perceiving the creature type in question.  
+You are proficient with all **martial and recon checks and saves** made targeting a creature of the type you specify.  
+You are proficient in **riding mounts** that are also creatures of your specified type.  
+You are proficient with a specific type of **common weapon or equipment** that is established in your setting to be used against your target creature type such as a spear, rifle or camera.  
+You are proficient in **intel checks** to find information about any species of the type you specify, though not necessarily information about individuals. For example, a terrestrial expert might be able to identify all the possible colours of cows (one data point), but that doesn’t give any information about the colour of a specific cow.

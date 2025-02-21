@@ -35,13 +35,9 @@ The spell is cast the moment the casting time ends, so if the casting time is on
 
 Spells use different components to be cast, being focus, material, or altar components. Each component type may be desirable for its own reasons, and some spells may stipulate that they use multiple component types simultaneously, for example an altar to cast the spell and a number of materials per target.
 
-* #### Focus you must use a focus object, a type of magical equipment, to concentrate on the spell and target for the entire casting time and duration as your action. If you lose the ability to sense the target, or to take an action to maintain focus, or someone succeeds at a check against you with the goal of breaking your focus, the spell ends entirely.
-
-* #### Material means you must use spell materials to cast the spell, however you do not need to maintain focus on the spell during its casting time or duration. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range or hide.
-
-* #### Altar means you must use a tier-appropriate altar to cast the spell. This is usually in the possession of a faction. Altars cannot be moved and they can only be sanctified by factions. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range. The caster must remain within the range while casting a spell, but does not need to focus for the casting time or duration.
-
-#### 
+* Focus you must use a focus object, a type of magical equipment, to concentrate on the spell and target for the entire casting time and duration as your action. If you lose the ability to sense the target, or to take an action to maintain focus, or someone succeeds at a check against you with the goal of breaking your focus, the spell ends entirely.  
+* Material means you must use spell materials to cast the spell, however you do not need to maintain focus on the spell during its casting time or duration. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range or hide.  
+* Altar means you must use a tier-appropriate altar to cast the spell. This is usually in the possession of a faction. Altars cannot be moved and they can only be sanctified by factions. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range. The caster must remain within the range while casting a spell, but does not need to focus for the casting time or duration.
 
 #### 
 
@@ -230,10 +226,6 @@ Energy: 3
 Range: Touch  
 Area: 2m  
 Your primary sense becomes magic. You can passively sense the presence of magic and spell effects, including their schools and can designate targets based on their magical presence such as a magical creature, a creature casting a spell, a magic item, a spell effect, or the target of another spell.
-
-###### 
-
-###### 
 
 ###### **Swaddle \[Abjuration\]**
 

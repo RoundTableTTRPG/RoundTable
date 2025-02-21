@@ -1,8 +1,6 @@
-# **Chapter 5 : The “Recon” Arena of Play, Dealing with Travel, Intelligence, Ambushes and the Like**
+# Chapter 5 : The “Recon” Arena of Play, Dealing with Travel, Intelligence, Ambushes and the Like
 
 Spies, scouts hunters and strategists all specialize first in finding their quarry, and ensuring that when they do so they are at their most vulnerable. Recon skills are required to either of these things, and to defend against them being done to you and your allies. Your passive recon score represents the habits and perceptive abilities you have cultivated over a lifetime, from ensuring supplies are properly packed away from light fingers, to shoulder-checking your flanks as you pass through a doorway. Your active recon skills include tracking, strategizing, and sneaking, all ways to establish an encounter against an enemy precisely when they least want you to.
-
-#### 
 
 ## 
 
@@ -46,10 +44,6 @@ If you really want to try to turn supply into something reasonable, but no one h
 ### Mounts and Vehicles
 
 Characters may come into possession of mounts or vehicles that they are proficient with, usually through a quest or faction, though in some settings certain mounts like horses are common market commodities. Platforms are almost always too complex and economically impactful to be market commodities, requiring specialized logistics to operate, and are therefore considered features of the geography or faction assets.
-
-## 
-
-## 
 
 ## The List of Recon Strategies To Get Things Rolling
 

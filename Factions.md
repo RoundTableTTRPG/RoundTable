@@ -1,4 +1,4 @@
-# **Chapter 4 :** The “Factions” Arena of Play Dealing with Interpersonal, Group and Societal Dynamics
+# Chapter 4 : The “Factions” Arena of Play Dealing with Interpersonal, Group and Societal Dynamics
 
 Those skilled with the arts of diplomacy will use their faction skills and the assets of their allied factions to make a difference in their daily activities. Faction characters use hour-long strategic actions to wrangle support, investigate, or even attack enemies through the complicated spider web of faction relations.  
 Unlike martial skills, which focus on the tactical realm and physical movement, faction skills rely on negotiation, intimidation, investigation and persuasion, but none of that matters if you don’t know who you’re dealing with, or they don’t know to be afraid of you. 
@@ -14,7 +14,7 @@ In addition to supply and GP, there is a currency specific to the Factions arena
 ### Personal Assets
 
 In addition to faction assets detailed below and in official content, an individual might buy, inherit, win or otherwise acquire a personal asset. This is a major item such as an estate or dedicated followers that is not tied to a faction and can be accessed by the individual at any time. To acquire a personal asset, the character must go through the acquisition challenge detailed below, however the cost of the asset in addition to the GP cost is one levelling point. The asset both costs and represents an achievement in faction skills in the sense that it is a considerable personal fortune. In many cases, the outright and unrestricted ownership of an asset as an individual is uncommon and unnecessary as they are readily available as faction assets, so the acquisition of a personal asset represents independence and the value of an individual to a faction. For example, in a modern context many people own both cars and homes, however few people own and maintain these assets outright and independently.  
-Once a character has a personal asset, they can access it at any time without making a acquisition check or spending Social Credit. It is assumed to be relatively self-sustaining, however you can always choose to be maintaining that asset as a downtime activity.
+Once a character has a personal asset, they can access it at any time without making a acquisition check or spending Social Credit. It is assumed to be relatively self-sustaining, however you can always choose to be maintaining that asset as a downtime activity
 
 ## 
 
@@ -44,8 +44,6 @@ The usual relation people and organizations have with insiders and “normal” 
 The normal relation that one has with friends and family is **Benevolent**. They operate on a principle of offering and expecting basic levels of aid and accommodations. This is also the relation you have with factions you add through levelling points.
 
 **Dedicated** is a special relation that one usually only shares with a few people in their entire life. You are willing to risk your life for this person and consider your wealth to be shared. This is the relation that a character asset has to you.
-
-### 
 
 ### Relations
 

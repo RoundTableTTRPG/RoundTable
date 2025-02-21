@@ -19,29 +19,30 @@ A **Permanent Injury** imposes a minor or critical condition on a creature that 
 
 **Temporary Injuries** are removed automatically at the end of a tactical encounter or minute, or if the condition of the injury is removed, for example a bear trap may only immobilize an opponent as long as it is attached to them and can simply be removed.
 
-#### **Physical Conditions**
-
-| Wounded Your movement is reduced to half and you can only take one action or bonus action or reaction per round in addition to your maneuver. | Incapacitated You can only take bonus actions. |
+| Physical Conditions |  |
 | :---- | :---- |
+| Wounded Your movement is reduced to half and you can only take one action or bonus action or reaction per round in addition to your maneuver. | Incapacitated You can only take bonus actions. |
 | Dazzled You are debuffed on using your primary sense for checks or saves. | Blinded You cannot use your primary sense for checks, saves or to designate targets. |
 | Immobilized You cannot use maneuvers. | Paralyzed You are not able to move your body to take any reactions, bonus actions, actions or maneuvers. |
 | Stunned All maneuvers are considered reckless and you do not have a reaction. | Unconscious. You cannot use your natural senses or move your body but are immune to further social conditions. |
 | Inebriated You are debuffed on faction checks and saves. | Intoxicated You lose all proficiencies and some natural abilities including walking and basic vision. |
 | Ailing You cannot use energy to buff checks and saves | Afflicted You cannot use energy at all |
 
-#### **Social Conditions**
+#### 
 
-| Confounded You are debuffed on checks and saves for intel and social change and cannot plan travel. | Perplexed You lose proficiency in all Magic, Factions and Recon Skills, and are not considered proficient in any language. |
+| Social Conditions |  |
 | :---- | :---- |
+| Confounded You are debuffed on checks and saves for intel and social change and cannot plan travel. | Perplexed You lose proficiency in all Magic, Factions and Recon Skills, and are not considered proficient in any language. |
 | Afraid You cannot move toward or target the subject of your fear | Panicked You must use your action and maneuver to move, recklessly if necessary, away from the subject of your fear. |
 | Charmed You are benevolent toward the subject of your charm. | Beguiled You are Dedicated toward the subject of this condition. Faction and social interactions cannot change this status. |
 | Angry You are debuffed on recon checks and saves. | Enraged Your social standing with all individuals becomes belligerent, and you are always considered to be acting belligerently. |
 | Anxious You treat all faction checks as saves. | Paranoid You cannot access your faction or personal assets or use Social Credit. |
 
-#### **Magic Conditions**
+#### 
 
-| Maligned All Magic and Faction checks are treated as saves. | Cursed You are unable to heal any other conditions until this condition is resolved. All your checks are treated as saves. |
+| Magic Conditions |  |
 | :---- | :---- |
+| Maligned All Magic and Faction checks are treated as saves. | Cursed You are unable to heal any other conditions until this condition is resolved. All your checks are treated as saves. |
 | Malcomposed You lose proficiency in your natural abilities as parts of your body decompose into strange forms. | Transmogrified You lose your natural abilities (possibly gaining others with which you do not have proficiency) as your limbs and organs are replaced with… others. |
 
 #### **Exhaustion**

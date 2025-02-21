@@ -1,7 +1,5 @@
 # Chapter 6 : Resolution
 
-## 
-
 ## The Section Dealing with Consequences of Checks or How to Interpret Results
 
 The core mechanics of the game leave you with a result of a check. The result is either negative, 0, 1, 2, 3, 4 or above 4\. This means there are degrees of success or failure. Broadly speaking these degrees of success can be understood or interpreted as the consequences of an action, but depending on the overall intent of the action, the consequences are different. For example, you can throw a punch in Round Table with the intention of incurring a physical condition such as *dazzled,* or a social condition such as *afraid*, but you can also throw a punch with the intention of starting a brawl to distract someone, or break free from a grab, or any other reason. The different intended consequences details below can help you interpret results into meaningful mechanical effects in the game. The example challenges given for each type of consequence are not exhaustive or prescriptive, but are meant as inspiration to help understand and implement the core rules.
@@ -13,9 +11,8 @@ When your objective is to cause a target to have a condition, you interpret a ne
 ![][image1]  
 Once you have determined that you hit, you add your weapon damage and subtract the damage reduction of your target. If the result is 0 or negative, you hit but did no damage. If the result is 1-4, you cause a minor condition, if it is 5 or above, you cause a major condition.
 
-![][image2]
-
-#### Damage can be augmented or reduced in various ways, using abilities and equipment that refer to damage or damage reduction.
+![][image2]  
+Damage can be augmented or reduced in various ways, using abilities and equipment that refer to damage or damage reduction.
 
 #### **Skirmish**
 
