@@ -6,4 +6,5 @@
 - [Recon](Recon.md)
 - [Resolution](Resolution.md)
 - [Advanced Rules](Advanced.md)
+- [Worldbuilding](Design.md)
 - [Appendix](Appendix.md)
