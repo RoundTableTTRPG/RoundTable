@@ -1,2 +1,5 @@
-- [Do Not Buy This Book](Do Not Buy This Book II.md)
-- 
+- [Chapter 1](README.md)
+- [How To](HowTo.md)
+- [Sample](Sample.md)
+---
+- [Changelog](Changelog.md)
