@@ -1,4 +1,4 @@
-- [Chapter 1](CoreConcepts.md)
+- [Core Concepts](CoreConcepts.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
 ---
