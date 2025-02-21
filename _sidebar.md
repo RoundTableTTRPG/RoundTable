@@ -1,4 +1,4 @@
-- [Chapter 1](Do Not Buy This Book II.md)
+- [Chapter 1](DoNotBuyThisBookII.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
 ---
