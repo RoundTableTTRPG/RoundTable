@@ -1,4 +1,5 @@
 - [Core Concepts](CoreConcepts.md)
+- [Character Creation](CharacterCreate.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
 ---
