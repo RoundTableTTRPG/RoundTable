@@ -1,4 +1,4 @@
-- [Chapter 1](README.md)
+- [Chapter 1](Do Not Buy This Book II.md)
 - [How To](HowTo.md)
 - [Sample](Sample.md)
 ---
