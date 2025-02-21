@@ -1,6 +1,9 @@
 - [Core Concepts](CoreConcepts.md)
 - [Character Creation](CharacterCreate.md)
-- [How To](HowTo.md)
-- [Sample](Sample.md)
----
-- [Changelog](Changelog.md)
+- [Martial]
+- [Magic](Magic.md)
+- [Factions](Factions.md)
+- [Recon](Recon.md)
+- [Resolution](Resolution.md)
+- [Advanced Rules](Advanced.md)
+- [Appendix](Appendix.md)
