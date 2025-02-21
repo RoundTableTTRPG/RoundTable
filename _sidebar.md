@@ -1,6 +1,6 @@
 - [Core Concepts](CoreConcepts.md)
 - [Character Creation](CharacterCreate.md)
-- [Martial]
+- [Martial](Martial.md)
 - [Magic](Magic.md)
 - [Factions](Factions.md)
 - [Recon](Recon.md)
