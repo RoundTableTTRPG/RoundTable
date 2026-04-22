@@ -1,4 +1,5 @@
-# Chapter 1 : Core Concepts and Introductory Information
+
+# Chapter 1 : Core Concepts and Introductory Information {#chapter-1-:-core-concepts-and-introductory-information}
 
 Round Table is a folk-fantasy RPG about parties of ordinary people who must forge their fate in a world much grander than themselves. It takes place among isolated regions of diverse and vibrant cultures trying to eke out an existence in an unforgiving universe that does not yield to human endeavor.
 
@@ -13,6 +14,8 @@ Your character is **Not Exceptional**. They have a specialty represented by thei
 **Each level is a mortal struggle** and the odds are not in your favor, but the stories are about the lives of ordinary people, and that’s a reality we all face together. The beginning and end of a character’s story should not be defined by levels 1 and 15\. Your table will define and decide on the story at hand, but dying or retiring will typically be your character’s outro.
 
 **There is no central system of price fixing** or guaranteed availability of any particular items in any particular place. The abilities to buy land, start a business, travel overland, buy or sell goods, associate with certain people, or even possess certain items are neither commonplace nor consistent. From swords to spells to accommodations, sometimes you can buy them at market, sometimes you can’t even own them. Wealth represents your position in society, not the other way around. The top 1% will always have credit available to them, a peasant’s gold is worthless in the face of taxes, regulations and plain old thieves.
+
+All players at the table work together to **Establish** the world and plot. Those playing characters are given the tools and strongly encouraged to create non-player characters, challenges and encounters for the rest of the table. The GM's role is not exclusively to manage the story, but rather to manage the opponent economy to provide opposition and constraints to the players' efforts.
 
 ### 4 Arenas of Play
 
@@ -60,6 +63,8 @@ If you are proficient in the action, you can expend one energy to **Buff** yours
 As you play the game you will uncover other ways to buff yourself and your allies. There is no way to modify your roll aside from buffing it, there are no static modifiers that will add or subtract to your roll, and your proficiency bonus is always equal to your level.  
 Some things take a second, or even less **Time** such as throwing a ball (sphere), other things take hours or even days, such as throwing a ball (party). The time it takes to complete an action is defined as either tactical (seconds) or strategic (hours) to help convey some of the mechanical particularities with these time scales.
 
+When the player of a character is **establishing** something in the world, they can freely establish aesthetics or background information that does not directly impact their character or the scene, for example the existence of a chandelier for appearance sake or dramatic effect. If they would like to establish something that would change the mechanics of the scene, for example establishing that someone they know happens to be present at a gathering, they must use some sort of mechanical force to do so. Many background, skill and ability descriptions include caveats for establishing mechanical changes.
+
 ### Rolls and Results
 
 Skills are defined uniquely, and so there may be gaps and overlaps in your character’s skills. For example, you might be proficient in driving civilian vehicles and also long distance urban travel. In both cases, you can apply your proficiency bonus (only once) to a check you make to drive a car along highways between cities, but you lose your proficiency bonus when trying to find an off-road route that would avoid police surveillance, since that is neither urban travel, nor how civilian vehicles are driven.
@@ -72,7 +77,7 @@ For example, you might add your martial skill to a maneuver that is clearly mart
 Whatever your roll is, you subtract the difficulty of the enterprise, either the base difficulty of the locale, or a passive or defensive skill in an opponent. Never an arbitrary number selected by the GM.  
 **For example**, if you swing a sword at someone and get 7-8, you take the 7 and add your skill bonus (+1), resulting in an 8\. If your opponent is only able to passively defend themselves with no skill modifier, their defense is 5, so your **result** is (8-5=) **3**.
 
-Whatever the sum of your roll minus the difficulty, that number is your **result**. If the sum is below 0, you have missed entirely. If it is 0-4, you have hit. Sometimes dealing damage is key, so hitting with a 0 is ineffective. If the sum is above 5, you have achieved a **breakthrough**. Different actions will have different consequences, so a breakthrough in dancing is not going to be anything like a breakthrough when hacking a security camera system, but the basic result is the same; you do exceptionally well.
+Whatever the sum of your roll minus the difficulty, that number is your **result**. If the sum is below 0, you have missed entirely. If it is 0-4, you have hit. Sometimes dealing damage is key, so hitting with a 0 is ineffective. If the sum is 5 or above, you have achieved a **breakthrough**. Different actions will have different consequences, so a breakthrough in dancing is not going to be anything like a breakthrough when hacking a security camera system, but the basic result is the same; you do exceptionally well.
 
 ### Consequences
 
@@ -83,7 +88,7 @@ Results give a miss (below 0), a hit with no damage (0), a hit with damage (1-4)
 * If you are looking to subdue a spell, maybe you can’t do so at all, can hold it off for 0-4 rounds, or even end the spell entirely.
 
 The Consequence of your check is not the number value, but the narrative thing that happens because of the check.  
-When the consequence of failure of your check should harm you, you are performing a **Save**. In this case, a negative result of 1-4 or 5 or less is interpreted as a minor or major condition respectively.  
+When the consequence of failure of your check should harm you, you are performing a **Save**. In this case, a negative result of 1-4 or 5 or less is interpreted as a minor or critical condition respectively.  
 It is not solely the GM’s responsibility to arbitrate consequences, other players can also do so.  
 Consequences can be conceptualized into the following six possible outcomes to help translate the results of the various mechanics back into narratives.
 
@@ -109,3 +114,5 @@ Moving yourself and possibly other creatures and objects relative to the geograp
 
 Usually, one skill check is not all that’s needed to solve a problem or get through a situation. Challenges are these problems or situations that will likely need a few skill checks, about 3-4 from each player as a maximum. A challenge has a starting situation and a resolution, but they can be generated by any of the players, or taken directly out of official content, which includes interesting challenge ideas.   
 Ultimately the difficulty of the game from a player point of view is governed by the number of challenges, as the game is balanced so that challenges gradually erode energy, social credit, supply and equipment until the party has very little to protect them from the inherent dangers of the world.
+
+## 
