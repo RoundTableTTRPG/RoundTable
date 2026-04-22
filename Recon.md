@@ -1,10 +1,8 @@
-# Chapter 5 : The “Recon” Arena of Play, Dealing with Travel, Intelligence, Ambushes and the Like
+The “Recon” Arena of Play, Dealing with Travel, Intelligence, Ambushes and the Like
 
 Spies, scouts hunters and strategists all specialize first in finding their quarry, and ensuring that when they do so they are at their most vulnerable. Recon skills are required to either of these things, and to defend against them being done to you and your allies. Your passive recon score represents the habits and perceptive abilities you have cultivated over a lifetime, from ensuring supplies are properly packed away from light fingers, to shoulder-checking your flanks as you pass through a doorway. Your active recon skills include tracking, strategizing, and sneaking, all ways to establish an encounter against an enemy precisely when they least want you to.
 
-## 
-
-## Recon Skills, Defined as Areas of Expertise and their Benefits
+## Recon Skills, Defined as Areas of Expertise and their Benefits {#recon-skills,-defined-as-areas-of-expertise-and-their-benefits}
 
 Those proficient in recon skills have an area of expertise. This is either a specific environment type a specific creature type, or a specific region from official content.  
 If your area of expertise is in a specific terrain such as forests or coast, you can apply your recon skill to any actions you take in that terrain such as avoiding detection, foraging, establishing encounters, etc. You can think of a character with a recon skill based on a terrain type as a ranger, sailor or other expert navigator of that particular terrain.  
@@ -32,7 +30,7 @@ Check out the page on the Intel Phase for more information.
 If a party would like to find themselves in the same locale as another at an opportune time, whether for combat, espionage, negotiations, or any other reason, they must first initiate an encounter. Initiating an encounter takes one hour. At the end of the hour, the encounter is established.  
 You do not need a check if an encounter has already been established narratively, however you may use a check to earn initiative points, detailed in Chapter 6\. An initiative check is made just like any other check, you roll against your target’s passive score, and they may have an opportunity to counter with an active defense to evade you. If you succeed, you convert any damage to initiative points, which are interpreted as tactical positioning and actions readied ahead of the tactical, round-by round actions.
 
-## Recon Equipment, In Particular Mounts, Vehicles and Packs
+## Recon Equipment, In Particular Mounts, Vehicles and Packs {#recon-equipment,-in-particular-mounts,-vehicles-and-packs}
 
 ### Packs and Supply
 
@@ -44,65 +42,3 @@ If you really want to try to turn supply into something reasonable, but no one h
 ### Mounts and Vehicles
 
 Characters may come into possession of mounts or vehicles that they are proficient with, usually through a quest or faction, though in some settings certain mounts like horses are common market commodities. Platforms are almost always too complex and economically impactful to be market commodities, requiring specialized logistics to operate, and are therefore considered features of the geography or faction assets.
-
-## The List of Recon Strategies To Get Things Rolling
-
-**Ambush**  
-If you successfully defend a recon attack, you can expend one energy to treat the result as a counter-attack.
-
-**Camouflage**  
-Expend one supply per target. When that target begins any encounter before their next long rest or change of clothes, they begin the encounter hidden.
-
-**Cover**  
-During any initiative phase you can deploy a 2m piece of cover adjacent to an ally for each initiative point you use.
-
-**Decoy**  
-You can spend an hour setting up a decoy, giving the decoy your passive encounter score. Until your next rest, opponents attempting encounters against you or your party will hit the decoy unless they get a breakthrough.
-
-**Defensive Position**  
-You provide cover to all adjacent targets designated by expending an initiative point each. If the targets move, they lose their cover and cannot rejoin the defensive position. If you move, the entire defensive position is lost.
-
-**Delay**  
-You can expend 1 energy to gain 3 initiative points when you lose a recon check.
-
-**Drills**  
-Choose one creature or terrain type each time you take this abilit bvb  y. You gain \+1 initiative point in all encounters against parties that include at least one of creature of this type.
-
-**Egress**  
-As a reaction to having an encounter initiated against you, you can exchange one energy and one initiative point to have one creature or object on your side removed from the encounter before it begins.
-
-**Entrench**  
-If an encounter is initiated against you when you are resting, you can add barricades to the map by spending initiative points.
-
-**Forager**  
-When you rest in terrain that you are proficient in, you need not eat rations.
-
-**Helper**  
-You add \+1 initiative point in any encounter you are involved with that you do not initiate.
-
-**Herdsman**  
-When you rest with animals such as horses, camels or mules in their natural terrain, they are fed without rations.
-
-**Rally**  
-If you use an initiative point in the initiative phase to move an ally closer to you or to move closer to an ally, you can double this movement. You and your allies are immune to afraid and panicked during initiative phases.
-
-**Reactive Casting**  
-You can expend 1 energy and 1 initiative point to prepare a spell with a casting time of one minute to be cast on your first turn in the ensuing encounter.
-
-**Rush**  
-If you win an encounter, you can spend one encounter point per target to ensure that the targets do not have their weapons or magic focuses drawn when the encounter starts.
-
-**Stray**  
-You can exchange initiative points to maneuver enemies during the initiative phase. You may only maneuver any creature once.
-
-**Sunder**  
-You can use initiative points to make attacks against equipment during the initiative phase.
-
-**Survivalist**  
-If you make any hour-long recon check in terrain with which you are proficient in a day, you can also resupply either one ration or one supply per day.
-
-**Tactical Gear**  
-You arrange your equipment such that you are always ready for an encounter. You always start encounters with your weapon drawn and unencumbered. If you would have been encumbered, you can choose to have dropped everything before combat began and mounted/dismounted your mount.
-
-**War Cry**  
-Use one energy and one encounter point to make a tremendous war cry using your encounter skill. All creatures of a lower level than you must make a save against fear or be afraid of your entire party.  
