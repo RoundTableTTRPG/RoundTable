@@ -1,10 +1,8 @@
-# Chapter 2 : The “Martial” Arena Of Play, Dealing With Actions, Maneuvers, And Tactics
+The “Martial” Arena Of Play, Dealing With Actions, Maneuvers, And Tactics
 
-The Martial arena deals with the characters bodies in round table. Whether you are using it to move or act, if you are doing something primarily with you muscles, you are in the martial arena. It is fast-acting, working in seconds or fractions of seconds, but it is relatively limited in scope by the range of your arm’s reach, your standing leap, direct line-of-sight, and other physical limitations.
+The Martial arena deals with the characters bodies in round table. Whether you are using it to move or act, if you are doing something primarily with you muscles, you are in the martial arena. It is fast-acting, working in seconds or fractions of seconds, but it is relatively limited in scope by the range of your arm’s reach, your standing leap, direct line-of-sight, and other physical limitations. 
 
-#### 
-
-## The Section On Tactics, Covering Time Space And Actions Performed Therein
+## The Section On Tactics, Covering Time Space And Actions Performed Therein {#the-section-on-tactics,-covering-time-space-and-actions-performed-therein}
 
 ### Tactical Challenges
 
@@ -85,7 +83,7 @@ You can also use your reaction to **Cooperate** with a team member by doing some
 
 You can only use one reaction per round, even if you are faced with multiple attacks or other checks, so choose wisely\!
 
-## The Characteristics of Tactical Equipment, Including Weapons
+## The Characteristics of Tactical Equipment, Including Weapons {#the-characteristics-of-tactical-equipment,-including-weapons}
 
 ### Weapon Characteristics
 
@@ -113,7 +111,7 @@ You cannot use **Ranged Weapons** while squeezing or in a clinch unless otherwis
 ### Armour and Damage
 
 After you calculate whether or not a weapon attack hits, you add weapon damage to the result, subtract damage reduction of armour, and are left with a result that is interpreted into a minor or critical condition. Attacks are detailed in the chapter on Consequences, and Conditions are detailed in the chapter on Advanced Rules.  
-The important factor here is that weapons have a damage rating, and armour has a damage reduction rating.  
+The important factor here is that weapons have a damage rating, and armour has a damage reduction rating. The damage reduction rating of armour only applies to physical attacks and harm, not magical, faction or ethereal attacks.  
 Statistically speaking, a weapon that adds 3 or more damage turns most hits lethal. These are lethal weapons. Some weapons are designed specifically to do less harm such as sports implements, and therefore have a negative damage modifier, being non-lethal weapons. Weapons dealing 5 or more extra damage are so powerful they cannot be expected to hit without grievous injury or death, and can sometimes cause harm by narrowly missing, meaning even armour becomes ineffective. This means armour ratings are typically 3 or below, eliminating the danger of some lethal weapons but not all.  
 We are therefore presented with a spectrum  
 From \-2 up to \+6 damage for weapons, with \+1 and \+2 weapons being common harmful tools and small weapons, and \+3 and \+4 being extremely dangerous lethal weapons, and \+5 and \+6 being devastating military weaponry.  
@@ -121,145 +119,3 @@ Conversely, sports equipment, heavy clothing, and other common protective items 
 Equipment lists will specify both damage ratings and damage reduction for weapons and armour, these guides are just to provide some idea of the range involved. Naturally some items like miniguns and full plate armour might exceed the values given here.
 
 ## 
-
-## The Entire List of Martial Plays to Bootstrap the Game
-
-### Maneuvers
-
-All plays take 1 energy to perform.  
-Maneuvers are integral to a martial character turning the tide in a challenge. Recon and faction-based characters can often set up ambushes, traps, and terrain obstacles that would leave the party helplessly exposed. Through incredible feats of physicality and acrobatics, martial characters can eschew these disadvantages and turn any battlefield into a killing floor. Martial characters also use maneuvers when mounted to make the most of their mount’s abilities.
-
-#### **Mobile Attack**
-
-Make an attack as a component of your maneuver, making two attacks if you use your action to double your maneuver.
-
-#### **Bullrush**
-
-Pass through opponents as a component of your maneuver, forcing them to save against your passive martial skill or fall prone.
-
-#### **Bully**
-
-Use your maneuver to close in, push, and generally harass an opponent as a belligerent action. They are considered to be in a clinch with you and you can make an attack with this maneuver to either cause the *afraid* or *angry* condition.
-
-#### **Control the Line of Attack**
-
-As your maneuver, make an attack against an adjacent opponent to move them as if you were in a clinch without touching them.
-
-#### **Mounting Expert**
-
-You can get onto a mount or a vehicle or platform as natural movement even if they are moving. You can also expend 1e in an initiative phase to change your position relative to a mount, vehicle or platform (ie mounting, dismounting, getting in or out, etc).
-
-#### **Parkour**
-
-Make any number of saves against reckless movement with a single reaction. You may be able to use your parkour ability to defend against checks meant to encounter you.
-
-#### **Roughrider**
-
-From a grappling position of control, you can expend 1e as a maneuver to mount an unwilling mount which you can thereafter ride as long as you stay in grappling control.
-
-### Actions
-
-Martial characters are able to take advantage of their turn in ways other characters cannot, especially through increasing the number and variety of actions they can take.  
-Remember that all martial plays use one energy.
-
-#### **Choke, Lock, Break**
-
-Circumvent your opponent’s physical damage reduction when you attack from the clinch or control, or make your check to move from the clinch to control also deal damage that ignores damage reduction.
-
-#### **Disarm**
-
-Make an attack that is considered inhospitable. On any hit you disarm your opponent. If you deal damage you take their weapon instead. You can use this attack in the initiative phase by using 1e and an initiative point if an opponent is adjacent to you.
-
-#### **Double Strike**
-
-Make two attacks as your attack action.
-
-#### **Spellsword**
-
-Make an attack with your weapon that is considered to be magical in nature, causing the *malcomposed* condition.
-
-#### **Hold for the Shot**
-
-Hold an attack or photograph action, allowing you to make full use of it as a reaction to a stated event. You can also use 1e and 1 initiative point to make an ordinary attack as the very last part of an initiative phase.
-
-#### **Sniper**
-
-Target objects or creatures up to double your ranged weapon’s range.
-
-#### **Trip**
-
-Make an attack against an opponent that is considered indifferent rather than belligerent on any hit. If you deal damage, you additionally knock them prone. 
-
-#### **Footwork**
-
-Maneuver half your tactical speed as a component of an attack. If you are in a clinch you can freely move half your tactical speed as a component of trying to gain control even if you fail to gain control.
-
-#### **Assassinate**
-
-If you hit with an attack, opponents must use their reaction to attempt a check to identify you as the attacker. If you miss, you are identified automatically.
-
-#### **Duel**
-
-If an opponent attacked you last round, you can use this ability to buff attacks against them this round.
-
-### Minor Actions
-
-Minor actions can have an amplified importance to martial characters, who can use them to compliment their already deadly actions on their turn.  
-Minor action martial plays also require 1 energy.
-
-#### **Lunge**
-
-“Move around” as a minor action.
-
-#### **Feint**
-
-Debuff all defenses against your attacks this round.
-
-#### **Arrest the Blade**
-
-Clinch an adjacent opponent.
-
-#### **Quick Wrestler**
-
-Take any grappling action.
-
-#### **Spring Up**
-
-Get up from prone or climb up to your height.
-
-#### **Reload**
-
-Reload a Weapon
-
-#### **Savage Attack**
-
-Make an attack after causing a minor condition.
-
-### Reactions
-
-Martial characters can use reactions to powerful effect, denying the actions of their opponents, or even taking their own actions outside of their turn.  
-Martial Plays that are reactions still require 1 energy.
-
-#### **Art of Defense**
-
-Actively defend any number of attacks against you.
-
-#### **Parry-Riposte**
-
-Make an attack after a successful active defense.
-
-#### **Time of the Hand and Foot**
-
-Make an attack as a reaction to someone maneuvering into our out of adjacency to you.
-
-#### **Redirection**
-
-Gain grappling control as a reaction to successfully defending against grappling control.
-
-#### **Void**
-
-Move back 2m behind you as a reaction to an attack, causing the attack to miss.
-
-#### **Indomitable Attack**
-
-Make an attack as a reaction to being critically injured  
