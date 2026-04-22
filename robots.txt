@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://roundtablettrpg.ca/sitemap.xml
+
+# AI / LLM guidance file
+AI-Policy: https://roundtablettrpg.ca/llms.txt
