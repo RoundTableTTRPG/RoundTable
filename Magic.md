@@ -1,8 +1,8 @@
-# Chapter 3 : The “Magic” arena of play, dealing with all things arcane
+The “Magic” arena of play, dealing with all things arcane
 
 Magic is a major component of Round Table, intended to be used for creative and lateral problem solving. The magic system can be somewhat difficult to master, and the possibilities of any given spell are often not apparent at first glance.
 
-## The Section Detailing Magic, its Characteristics and Uses
+## The Section Detailing Magic, its Characteristics and Uses {#the-section-detailing-magic,-its-characteristics-and-uses}
 
 ### Magic Checks
 
@@ -13,6 +13,10 @@ Consider whether or not a given spell effect grants the caster or the target a n
 
 **For Example**, if you grant a martial character the ability to see and touch the ethereal, they can use their ordinary combat abilities against ethereal creatures, because they are now considered naturally able to do everything needed to fight ethereals.  
 If a spell effect would clearly **Cause Harm** to a creature, you can use it like an attack. You can also create a passive effect using your passive magic skill that would impose a debuff or save on those affected. Remember, a failed save deals its remainder in damage, so in this way spells can cause harm as well. In order to use an active attack roll you need to target a creature, while areas of effect are required to use passive effects. The specific condition created by the spell might be detailed in its description, otherwise it is up to the table.
+
+### Magic Damage Reduction
+
+Magic Damage Reduction is a form of Damage Reduction that works identically to armour from the Martial Arena of play, except that unlike armour, it affects only magical and ethereal attacks. There is no increased magical damage property for magical tools or weapons, so an item that confers magic damage reduction may be even more valuable than armour.
 
 ### The Characteristics of Spells
 
@@ -110,7 +114,7 @@ Every living thing contains **Life Magic**. In fact, there is a strong argument 
 
 The change of one substance into another from simple evaporation to the metamorphosis of a butterfly is incredible. The use of arcane energy to promote such transformation is **Transmutation**. The most common transmutations are mindless to common folk. Rituals to ensure bread has a flaky crust are cast off as mundane. Specialist skills to create porcelaine, or mythical metals are usually what common people actually associate with transmutation, and of course the legends and insane reaches of transmutation to create constructs or transform lead into gold could be possible, or not. A simple baker may never know.
 
-## The Definitions of Magical Equipment That You Might Come Across in the Worlds 
+## The Definitions of Magical Equipment That You Might Come Across in the Worlds  {#the-definitions-of-magical-equipment-that-you-might-come-across-in-the-worlds}
 
 Magic tools are very useful, sometimes completely necessary, for the use of spells, especially Major Arcanum. Some Major Arcanum spells use so much energy, or are so limited that they must be used in conjunction with magic tools to be made very effective, while others can be transformed through the proper use of powerful tools from trivial parlor tricks to legendary powers.  
 The following general guides will help you understand how the respective magic tools are used, however the tools themselves, their specific functions and values are found in equipment lists in official content.  
@@ -140,296 +144,4 @@ All chronometers are complex machines that allow the caster to stretch the time 
 
 Crystals, dice, orbs and all other geometric devices are used to focus, refract and amplify arcane energy. Spells’ areas of effect or number of targets can be augmented, for example a triangular prism may allow the caster to automatically include two other people in any spell targeting the caster, or an orb might increase the range of any spell with an area of effect.
 
-## What Are the Minor Arcanum and the List of Generic Ones
-
-Minor Arcanum are abilities that an individual can train that allow them to manipulate magic in new and interesting ways. Minor arcanum function identically to all other abilities, you earn them using levelling points, and once learned you can apply them wherever they make sense. 
-
-**Abjurer’s Instinct**  
-Expend 1e to uncover the school of magic or creature type of a magical creature, object, or effect you are touching.
-
-###### **Arcane Blast**
-
-Expend 1e to make a touch magic attack against a target, imposing the stunned/paralyzed condition temporarily.
-
-###### **Arcane Veil**
-
-Expend 1e and your minor action. Those concealed by your body or clothing (including yourself) cannot be targeted by magic this round, even by means of name magic or other targeting methods.
-
-###### **Auxiliary**
-
-Expend 1e as a reaction to include yourself as a target of an allied spell, as if the caster included you in the spell.
-
-###### **Battlemage**
-
-You can use a weapon with which you are proficient as a magic focus, and can maintain focus while using a weapon to attack targets of spells you are focusing on.
-
-###### **Bound Magic**
-
-You can cast spells while squeezing, bound, or in a clinch.
-
-###### **Break**
-
-Expend 1e to make a touch magic attack against an object as if you were using a hammer or other implement that could break it without suffering any harm yourself.
-
-###### **Conduit**
-
-Expend 1e as your reaction to make a check against an incoming magic attack. If you succeed, you can select an alternate target of the spell by touch.
-
-###### **Diviner’s Intuition**
-
-You can expend 1e to make a magic intel check against a target you are touching as an action.
-
-###### **Dragon’s Gift**
-
-When you succeed at a save vs magic, you gain 1e.
-
-###### **Druidism**
-
-Expend up to 3 spell components to add an equal number of initiative points to any initiative check.
-
-###### **Evil Eye**
-
-Expend 1e to make a magic attack against a target you can see, debuffing them for one round on a hit.
-
-###### **Familiar**
-
-Expend 1e to cause a tiny non-humanoid minion you are touching to be devoted for 1 day.
-
-###### **Sanctify**
-
-Expend 1e to convert one supply to one spell component as an action.
-
-###### **Spell Theif**
-
-Expend 1e as a reaction to make a magic check to add yourself as a target or make yourself the origin of an opponent’s spell if you are in range.
-
-###### **Telearcanum**
-
-Expend 1e as a reaction to make yourself the origin of an ally's spell if the ally remains within 10m when they are casting it.
-
-###### **Witch Sight**
-
-Expend 1e to see ethereal and astral creatures and objects within 10m for 1 round.
-
-## The Section Dealing with the Major Arcanum and Their Examples
-
-Major arcanum are powerful spells that require a very restrictive amount of energy. Major arcanum are learned in the same way that minor arcanum are, however their availability is much more limited. You only have the opportunity to spend levelling points to acquire individual major arcanum as your character discovers them and adventures to acquire them. There is no master list of major arcanum, they are released through official content in a similar manner to equipment lists.
-
-###### **Comprehend Magic \[Abjuration\]**
-
-Casting Time: Ten Minutes  
-Components: Material  
-Duration: One Round  
-Relation: Indifferent  
-Targets: None  
-Energy: 3  
-Range: Touch  
-Area: 2m  
-Your primary sense becomes magic. You can passively sense the presence of magic and spell effects, including their schools and can designate targets based on their magical presence such as a magical creature, a creature casting a spell, a magic item, a spell effect, or the target of another spell.
-
-###### **Swaddle \[Abjuration\]**
-
-Casting Time: One Hour  
-Components: Material  
-Duration: Instantaneous  
-Relation: Benevolent  
-Targets: 5  
-Energy: 5  
-Range: Touch  
-Area: None  
-Expend one spell component per target creature, wrapping each target in a tight blanket over the course of the casting time. While swaddled in this way, the target cannot be made the target of another spell, and they are buffed when overcoming the effects of a spell, attempting to heal a magical condition, or saving from a magical area effect. The spell lasts as long as they are resting, unless their blankets are removed. You cannot effectively cast this spell on yourself.
-
-###### **Harem \[Abjuration\]**
-
-Casting Time: Ten Minutes  
-Components: Material  
-Duration: Ten Minutes  
-Relation: Hospitable  
-Targets: None  
-Energy: 5  
-Range: None  
-Area: Touch  
-Objects and creatures within the area of effect cannot be sensed by magical means as long as they also remain obscured from mundane observation. If you add targets, they can be permitted to observe the hidden objects or creatures without breaking the spell, otherwise the spell is broken even if the caster or hidden creatures themselves observe the obscured things.
-
-###### **Comprehension \[Divination\]**
-
-Casting Time: One Hour  
-Components: Focus  
-Duration: One Minute  
-Relation: Hospitable  
-Targets: One  
-Energy: 3  
-Range: Touch  
-Area: None  
-You can comprehend a target form of communication that creatures of your type might otherwise be able to comprehend.  
-Communication forms include languages, codes, signs, gists, concepts, etc. For the duration you can understand a target type of communication that you have experienced such as “that language” or “the cryptic map.” You retain whatever information you may have learned while influenced by the spell, but once the spell is over you can no longer get new information from that source unless you use the spell again or learn the language in question. You must be capable of sensing and comprehending the communication style in question, so pheromones or telepathy, etc, remain out of reach.
-
-###### **Legend \[Divination\]**
-
-Casting Time: One Hour  
-Components: Material  
-Duration: Instantaneous  
-Relation: Indifferent  
-Energy: 2  
-Targets: One  
-Range: Touch  
-Area: None  
-Make a magic attack against the targets, learning a number of public facts about them equal to the damage of the attack.  
-The facts might include their skills, accomplishments, faction affiliations, etc.  
-This spell does not reveal the actual truth of this information, only whether or not it is publicly held as true.  
-A critical hit can be used to reveal that the target is concealing their identity or is possessed.
-
-###### **Third Eye \[Divination\]**
-
-Casting Time: One Minute  
-Components: Focus  
-Duration: One Minute  
-Relation: Hospitable  
-Targets: One  
-Energy: 5  
-Range: 100m  
-Area: None  
-You are able to see from a target object as if it were your eye or use the primary sense of a target creature. You still have the same faculties of sight as you naturally do, but your target object can be considered an additional source of your natural vision or your target creature can be considered to provide you with its natural primary sense in addition to your own. Your target can come under the dazzled/blinded condition, and if it does, all your ordinary senses are dazzled/blinded too and the spell ends.
-
-###### **Agnosia \[Enchantment\]**
-
-Casting Time: One Hour  
-Components: Material  
-Duration: One Minute  
-Relation: Belligerent  
-Targets: One  
-Energy: 5  
-Range: Touch  
-Area: None  
-You cause the target to be completely unable to identify you for the duration. For the duration they will evaluate any identity ascribed to you by anyone including you in accordance only with present evidence without recalling any similarity to your previous identity. After the duration they will know you tricked them with magic.
-
-###### **Charm Minion \[Enchantment\]**
-
-Casting Time: One Hour  
-Components: Altar  
-Duration: Instantaneous  
-Relation: Hostile  
-Targets: One  
-Energy: 3  
-Range: Touch  
-Area: None  
-Make a spell attack to convince a target minion of your level or lower to be loyal to you. On a success, the minion is devoted to you permanently. This spell is considered hostile, so on a failure the minion will become hostile, but even on a success the minion’s other associates may become hostile.
-
-###### **Belligerent Presence \[Enchantment\]**
-
-Casting Time: One Minute  
-Components: Focus  
-Duration: One Minute  
-Relation: Belligerent  
-Targets: None  
-Energy: 5  
-Range: Touch  
-Area: 6m  
-You flood the area with an overwhelming sense of your angry presence. Every creature in the area must save against your passive magic skill, becoming belligerent to you on a failure, and succumbing to the *afraid* condition if they critically fail. Additionally, every affected creature in the area feels that you are physically or magically perceiving them directly, searching them, possibly scrying their thoughts. This may cause hidden creatures to give up hiding or creatures hiding things to act erratically. You and your allies are buffed when using this spell to investigate, interrogate or gather information.
-
-###### **Sense Energy \[Evocation\]**
-
-CASTING TIME: Ten Minutes  
-COMPONENTS: Material  
-DURATION: One Hour  
-Relation: Benevolent  
-TARGETS: One  
-Energy: 5  
-RANGE: touch  
-AREA: 100m  
-Targets can sense the existence and intensity of a selected physical energy in the area within range such as heat, light, sound etc. They can sense if energy sources are flowing or moving through the area and can designate targets as if this sense was their primary natural sense, for example targeting “the hottest object in the room.” They can sense extremely low energy levels, sensing clearly in near perfect darkness, silence or cold. If targets of this spell are *blinded* after casting the spell, this spell ends instead.
-
-###### **Temperate \[Evocation\]**
-
-Casting Time: One Minute  
-Components: Focus  
-Duration: One Minute  
-Relation: Belligerent  
-Targets: None  
-Energy: 3  
-Range: Touch  
-Area: 6m  
-Moderate and diffuse light, heat or sound in the area. Elementals consider the area rough terrain regardless of the energy you choose to temperate. Creatures saving or actively defending against the energy type you selected who are within the area and duration can use your proficiency bonus instead of theirs. Targets cannot be selected into, within, or out of the area using the energy type you selected for the duration.  
-Spikes in the energy type, such as a hot object or bright flash are diffused over time and space to be effectively eliminated. Energy from ordinary sources such as a flashlight or shout do not cross the area, but may be perceived as being within the area even though they cannot be precisely located.
-
-###### **Mystic Bolt \[Evocation\]**
-
-Casting Time: One Minute  
-Components: Material  
-Duration: One Minute  
-Relation: Hostile  
-Targets: 3  
-Energy: 6  
-Range: Touch  
-Area: 6m  
-After the casting time, you must touch each target within the duration and area with a spell component, which is then consumed. At the end of the duration, a bolt of energy is instantaneously discharged between the targets that are still within the area, constituting a magic attack against them causing the immobilized/paralyzed condition. The act of touching the targets is not inherently hostile until the spell takes effect, however it is clearly part of a spell casting.
-
-###### **Blast Consciousness \[Life Magic\]**
-
-Casting Time: Action  
-Components: Focus  
-Duration: Instantaneous  
-Relation: Belligerent  
-Targets: One  
-Energy: 3  
-Range: Touch  
-Area: None  
-Make a spell attack against a target, relieving them of all minor conditions on a hit, but imposing the stunned/paralyzed condition with any damage dealt.
-
-###### **Lifelight \[Life Magic\]**
-
-Casting Time: One Minute  
-Components: Material  
-Duration: One Hour  
-Relation: Hospitable  
-Targets: One  
-Energy: 3  
-Range: Touch  
-Area: None  
-The target is surrounded by a faint light, buffing checks and saves to heal physical and magical conditions or against possession by undead for the duration. Additionally, when you cast this spell you can make a check to expel any undead possessing the target. The faint light causes undead to save against the afraid/panicked condition whenever they first perceive it.
-
-###### **Sympathetic Touch \[Life Magic\]**
-
-Casting Time: One Hour  
-Components: Material  
-Duration: Instantaneous  
-Relation: Devoted  
-Targets: 4  
-Energy: 5  
-Range: Touch  
-Area: None  
-When you begin casting this spell, you will take on a number of conditions corresponding to the number of spell components used, to the maximum of the spell’s target number that the creature you are touching is suffering from. You retain these conditions for the casting time, and indefinitely if the spell is not completed successfully. Otherwise, both you and the origin of these target conditions are relieved of them at the end of the casting time. If you take on a condition such as paralyzed, which would prevent you from completing the spell, you retain the condition but do not complete the spell.
-
-###### **Slip/Stick \[Transmutation\]**
-
-Casting Time: One Minute  
-Components: Material  
-Duration: One Minute  
-Relation: Indifferent  
-Targets: None  
-Energy: 3  
-Range: Touch  
-Area: 10m  
-Cause every solid surface of objects not carried or worn by creatures in the area to become either slick or sticky. This makes maneuvers across the area risky by default, and may impose your magic skill save on various actions such as opening doors. You can make a check to have this spell affect the surfaces of a target construct within the area or deal damage to it.
-
-###### **Quicken/Thicken \[Transmutation\]**
-
-Casting Time: One Minute  
-Components: Focus  
-Duration: One Minute  
-Relation: Indifferent  
-Targets: None  
-Range: Touch  
-Area: 6m   
-You make a specified liquid in the area not in direct contact with non-construct creatures more or less viscous for the duration. This will make maneuvers across the area risky for creatures that are naturally suited to swimming through the ordinary viscosity of the liquid. You can use this spell to directly damage machines and constructs that rely on the liquid being a specific viscosity (cars and oil, for example), or creatures that rely on the ambient liquid for survival (fish and water, for example) if they remain inside the area for the entire duration.
-
-###### **Congeal/Unseal \[Transmutation\]**
-
-Casting Time: One Hour  
-Components: Material  
-Duration: Instantaneous  
-Relation: Belligerent  
-Targets: Two  
-Range: Touch  
-Area: None  
-Adhere two objects together, or make a check to repair an object. Alternatively, you can dissolve any glue without a check, or make a check to break welds, magic seals or any other bond between two objects. This spell cannot be used to unseal things stuck together by the very same spell. When the spell ends, the objects are not considered to be magically bonded (it cannot be dispelled), but nor is there any physical glue present. You can use this spell as an attack against constructs and objects that require tight seals like pressure vessels or mobility like wheels. You cannot unscrew, unlatch, or otherwise move mechanisms with this spell.
+# 
