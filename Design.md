@@ -1,8 +1,7 @@
-# Chapter 8: Challenge to Adventure to Campaign, also Design Guides and Templates
 
-## 
+Worldbuilding
 
-## Building Sessions and Campaigns, The Section that is Actually for the GMs
+## Building Sessions and Campaigns, The Section that is Actually for the GMs {#building-sessions-and-campaigns,-the-section-that-is-actually-for-the-gms}
 
 ### The Simple Summary
 
@@ -35,6 +34,19 @@ You must run a number of challenges that make the outcome statistically unlikely
 The party has an economy based on the sum of their supply, energy and Social Credit. Their opponents also have access to supply, energy and social credit, however it would be impossible and ultimately futile to track it for each opponent. Instead, the relevant question is how many resources are the sum of the opponents willing and able to level against the party? As an example, an unknown group of rowdy adventurers making noise in a bar might not merit expending even one energy or social credit to attempt to quiet them down, even if an opposing creature has those resources in reserve. So the GM is left with a number of resources that the sum of opponents are *willing* to expend before they basically just let the party get away with something. Keep in mind, every creature and every faction is living an entire life in Round Table. Precisely because the world does not revolve around the party, opponents are quick to retreat, unwilling to expend resources against them, and perhaps already in a deficit because of some unexplained occurrence before the party showed up.  
 When you set out a campaign, plan for a number of resources equal to the sum of levels of all party members to be expended between each of the party’s long rests. It’s simplified but effective. If you find that your party is looking for more of a challenge, increase the number. If they are wanting a cozier game, reduce it. Whenever an opponent buffs a roll or uses an ability that requires energy, social credit or supply, deduct it from the total opponent resources.  
 There are two explanations for Opponent Economy within Round Table. The first is that the party is travelling along their fate trajectory, and fate has something in store for them. The subtle ebb and flow of the Veil of magic that surrounds the world empowers creatures to expend resources against the party, or holds them back. A number of such resources is expended along the way that is governed by forces beyond the ken of those creatures and factions which expend them. The second explanation, and the one which the party should encounter, is the explanation that people give in support of this “greater plan”. They are tired, sick, in a bad mood, just plain don’t like the cut of the party’s jibb. Everyone has a reason for everything that is tied into their regular daily lives, only a few notice the pattern from one challenge to the next.
+
+### Designing Sidebars
+
+Sidebars are mini-adventures designed by the players to do something complex that was not necessarily part of the core adventure. They usually come up for one of the following reasons:
+
+* The players become interested in something  
+* Some previous situation or consequence such as a hostile relation or injury must be resolved  
+* The players come up with a much more complex solution to a simple obstacle.  
+* The players want to permanently improve a relationship.
+
+To design a side-bar, one or more players will set out a series of checks equal in number to the total of the levels of the concerned characters. So, if two level two characters establish that there is a legend of a magical sword in a particular cave, they will offer 4 checks to the GM representing things that might happen in the cave. This is effectively the plan that the players believe will take place.   
+The GM may or may not integrate other plot points into the side-bar from the core adventure. Any number of players may play through the side-bar along with their compatriots, the GM may use the opponent economy to buff counter-checks.  
+Side-bars can also be sourced from official or 3rd party material, or designed and run by a player whose only contribution to the table is the side-bar.
 
 ### Designing Sessions
 
@@ -72,7 +84,7 @@ You can lay out your adventure in a checklist, if that helps. Then just try to w
 
 Campaigns are years-long series of adventures that come together to thoroughly develop many characters per player, many regions and factions, and everything in between. Campaigns often explore world-changing events and their effects on the people of a setting, or themes of certain philosophical questions like the nature of humanity. Campaigns are generally not built around player characters, and players are encouraged to change characters and roles regularly. You can start designing a campaign by putting together one or two adventure ideas, but they should emerge organically one adventure at a time from your table.
 
-## The Design Section, Which is not Only for GMs
+## The Design Section, Which is not Only for GMs {#the-design-section,-which-is-not-only-for-gms}
 
 ### Designing at a Round Table
 
@@ -128,7 +140,7 @@ You may have one player, especially who is less familiar with the rules or more 
 
 Having a player drop in to manage an individual setting or adventure within a larger campaign is a great way to introduce players to GMing, or even introduce new players to the game as a whole. Because the role of GM is focused on managing the overall flow of the game, players themselves can usually step in to clarify individual mechanics and rules, allowing the session manager to focus on understanding how it all fits together.
 
-## Design Section of Various Elements of Round Table Games
+## Design Section of Various Elements of Round Table Games {#design-section-of-various-elements-of-round-table-games}
 
 ### Designing Backgrounds
 
@@ -160,29 +172,29 @@ Remind users that they can always add any Martial Plays as abilities by using on
 
 Magic Traditions are very diverse, and can have a profound impact on your setting in general. They should make some attempt to justify and detail the use of magic, including moral, philosophical principles behind its use, where it comes from, and why the tradition’s use of magic is particularly acceptable. Additionally, magic traditions confer one each of the following benefits:
 
-* A way to manipulate their spells by changing one characteristic and adding 1e to the casting cost. You can either allow any characteristic to be changed for a restricted school of magic or target creature type, or you can allow any school or target type, but only one category of characteristic can be changed. **Either you can change any part of an Enchantment, or you can change only the range of any type of spell, as two examples.** In the case of Major Arcanum, you must only learn the spell in its altered form, in the case of minor arcanum, scrolls, etc, you can alter them on the fly.  
-* A category of Magic tools as found in Chapter 3 such as wands/rods/staffs.  
-* A Minor Arcanum as found in Chapter 3\.
+* You can either allow any characteristic to be changed for a restricted school of magic, or you can allow any school, but only one category of characteristic can be changed. **Either you can change any part of an Enchantment, or you can change only the range of any type of spell, as two examples.**  
+* A category of Magic tools as found in Chapter 4 such as wands/rods/staffs.  
+* Either a method of perceiving magic or a magical movement. These do not confer unnatural abilities, for example proficiency with magic flight doesn’t allow you to fly on its own, but allows you to use your proficiency bonus when making checks and saves while flying by some other magical means. Similarly, magical perception may allow you to identify shapeshifters visually but not confer any unnatural sight.
 
-Be sure to remind users that your magic tradition allows them to learn any Minor or Major Arcanum that they come across by using a levelling point.
+Be sure to remind users that your magic tradition allows them to learn any Minor or Major Arcanum that they come across by using a levelling point, and that they are proficient in those spells they learn this way.
 
 ##### Factions
 
 Faction skills are the skills used by individuals to take advantage of faction assets and collective power. They are very strongly culturally informed, and usually suit certain regions and their factions. Taken totally out of context, the individuals retain their overall skills in diplomacy and charisma, but without the support of the social structures that they have built these skills upon. For example, the concept of observing etiquette is somewhat universal, but the particulars of dining etiquette vary greatly. Therefore a master of tea ceremonies may have a great impact across a number of different factions, but they also have a sense for reading people and inducing calm diplomacy that transcends the specifics of their training. Faction skills confer the following benefits:
 
-* An Additional Language, dialect, slang, jargon, cant, code, sign language or artistic expression that is particular to their culture or a specific faction.  
-* An Interpersonal Interaction that allows them to generate leverage with members of specific factions for free.  
-* A Social Art that they can perform during long rests that allow them to take some specified free action while also benefiting from the long rest.
+* Proficiency in certain faction checks to alter relations  
+* Proficiency in certain faction checks to conduct investigations.  
+* An additional form of communication either overt such as a language or covert such as a code.
 
 Include a reminder that Factions skills allow any character to take on a quest to try to add an Asset to the faction, or to use levelling points to acquire a Personal Asset for themselves.
 
 ##### Recon
 
-Recon skills aside from the generic ones already offered in the appendix are exclusively related to Regions. They represent a profound connection to that region and the land in general, and often carry characteristics of the land as well. Recon Region Skills always include proficiency in movement, checks and saves while in the region in question, and confer two out of the following proficiencies:
+Recon skills aside from the generic ones already offered in the appendix are exclusively related to Regions. They represent a profound connection to that region and the land in general, and often carry characteristics of the land as well. Recon Region Skills always include proficiency in movement, checks and saves while in the region in question, and confer the following proficiencies:
 
 * A pack and related equipment particular to the Region and the ability to convert supply to certain items without a pack.  
 * A Generalized method of movement, terrain type proficiency, or creature type proficiency that applies outside the region.  
-* Proficiency with a class of mount or vehicle that is emblematic of the region.
+* Proficiency with a class of mount or vehicle.
 
 ### Designing Creatures
 
