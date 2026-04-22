@@ -1,8 +1,8 @@
-# Chapter 7 : Advanced Rules and Appendices
+Advanced Rules and Appendices
 
 With the basics out of the way, feel free to play around to get the hang of them. Explain an action to your more experience players, they’ll tell you the difficulty to beat, then roll an outcome and see if it works. Now moving on to the next stage, we can examine rules about specific situations.
 
-## Health and Conditions
+## Health and Conditions {#health-and-conditions}
 
 There are no health points of any kind in Round Table. Creatures in Round Table are subject to conditions that alter how they are able to act, which have a minor and critical form, and can be temporary, ordinary, or permanent. Damage is calculated only to select either a minor or critical condition as appropriate, with 1-4 damage inflicting a minor condition and 5+ inflicting a critical condition.  
 The only impacts of damage or harm should be specific conditions, which give your table flexibility to impose debuffs on certain checks, etc. No wounds system or generalized debuffs should be used.  
@@ -21,9 +21,9 @@ A **Permanent Injury** imposes a minor or critical condition on a creature that 
 
 | Physical Conditions |  |
 | :---- | :---- |
-| Wounded Your movement is reduced to half and you can only take one action or bonus action or reaction per round in addition to your maneuver. | Incapacitated You can only take bonus actions. |
+| Wounded Your movement is reduced to half and you can only take one action or minor action or reaction per round in addition to your maneuver. | Incapacitated You can only take minor actions. |
 | Dazzled You are debuffed on using your primary sense for checks or saves. | Blinded You cannot use your primary sense for checks, saves or to designate targets. |
-| Immobilized You cannot use maneuvers. | Paralyzed You are not able to move your body to take any reactions, bonus actions, actions or maneuvers. |
+| Immobilized You cannot use maneuvers. | Paralyzed You are not able to move your body to take any reactions, minor actions, actions or maneuvers. |
 | Stunned All maneuvers are considered reckless and you do not have a reaction. | Unconscious. You cannot use your natural senses or move your body but are immune to further social conditions. |
 | Inebriated You are debuffed on faction checks and saves. | Intoxicated You lose all proficiencies and some natural abilities including walking and basic vision. |
 | Ailing You cannot use energy to buff checks and saves | Afflicted You cannot use energy at all |
@@ -68,25 +68,63 @@ Various abilities, spells and equipment might present other ways to resolve cond
 A short rest takes one hour and requires the creature resting to be able to move its body if it is able and to eat. Any effects that require a short rest come into effect once the hour is over, and most creatures can remove one minor condition over the course of their short rest. They also bring their current energy level up to half of their maximum if it had fallen below that.  
 A long rest requires 8 hours and for the creature to both eat and sleep, as well as sufficient water for cleaning and drinking. At the end of the long rest, energy and social credit are restored up to the maximum and a single minor condition can be removed or a critical condition can be reduced to its minor form.
 
-## Death, Fate and Levelling Up
+## Death, Fate and Levelling Up {#death,-fate-and-levelling-up}
 
 In order to level up, your character must challenge their fate successfully. Challenging your fate is how your ordinary character can rise above, so it represents both an opportunity and an obstacle. For example, if you are fated to die in a snowstorm, you are also fated to level up by surviving a snowstorm. Once all the characters in your party are designed, you will work together to design your fates. Not every character or player needs to be challenging their fate at all times. In fact, it should be a relatively uncommon occurrence.
 
 ### The Fate Challenge
 
-At some point in your adventure, you and your GM should detail the particulars of your next fate challenge, for example clarifying with them that you would like a particular event such as defeating a particular opponent to be your characters fate challenge. The GM will design a series of challenges that will statistically lead to your party failing the fate challenge by consuming your party’s energy and presenting difficulty ratings with a less than 50% chance of success. Without clever strategizing and planning, your character is likely to fail the fate challenge, so it’s up to you to figure out how to succeed.
+At some point in your adventure, you and your GM should detail the particulars of your next fate challenge, for example clarifying with them that you would like a particular event such as defeating a particular opponent to be your character's fate challenge. The GM will design a series of challenges that will statistically lead to your party failing the fate challenge by consuming your party’s energy and presenting difficulty ratings with a less than 50% chance of success. Without clever strategizing and planning, your character is likely to fail the fate challenge, so it’s up to you to figure out how to succeed.
 
 ### Levelling up
 
 If you do manage to succeed at levelling up, you earn two levelling points. You can always use them to add 1 to your max Energy or Social Credit, or to learn a new ability in one of your two arenas of play. There are many other uses for levelling points, but your character must generally come across a specific opportunity to spend them (such as uncovering a unique Major Arcana), and then level up to take advantage of that opportunity.
 
-## Economics
+### Death
+
+If you manage to fail your fate challenge, your character dies. Character death is the removal of the character's agency and ability to continue the adventure. While it is often simple and rewarding to represent it through their explicit physical mortality coming to an end, there are lots of other ways your character can lose agency and be unable to continue.
+
+* Sustaining such grievous harm such as amputations that they are unwilling to take on those risks ever again even if they are healed.  
+* Enduring a complete mind wipe or permanent enthrallment to another creature.  
+* A debilitating breakdown of their nervous system or transmogrification of their body.  
+* Teleportation to an unknown realm with no hope of escape.  
+* Mind-altering exposure to cosmic horrors or truths that they cannot adapt to.  
+* Falling prey to a radical ideology.  
+* Earnestly dedicating their life to some other love or ideal.  
+* Being overwhelmed by shame, fear or hate.  
+* Being locked up forever, or until the person that emerges is no longer the same as the one who was imprisoned.  
+* Being lost in the world with no hope of rescue or escape.  
+* Undertaking acts of pure survivalism that forever bar them from reintegration with society.
+
+## Targeting and Identity
+
+### Targeting
+
+No matter which arena of play you are engaging with, you will need to designate targets to take actions against. In order to designate a target you need to be able to both *sense* it and also *distinguish* it. In most cases this can be done simply and automatically without much thought. **Humans’ primary sense** is sight, and we are very good at both seeing and distinguishing things, especially people. You can automatically sense (see) any human in your line of sight in the same locale as you. Something must be changed in order for that human to not be sensed, for example hiding behind something or causing you to be blinded or unwilling to look at them. You can also automatically distinguish between any number of humans in a locale and communicate that distinction such as “the guy in the red hat to the left of the pillar”. The person in question must take actions that would cause you to become unable to distinguish them on purpose such as wearing a disguise or blurring your field of view. Aside from other humans, there are creatures and objects that are specifically designed to not be seen, such as a pane of glass or camouflaged bird. Both of these require a human to make a check to sense them in order to target them.   
+Once you succeed at a check to sense a creature, you can sense and distinguish it permanently until it takes an action to obfuscate itself once more or you lose the sense in question. This back-and forth of revealing and hiding can be treated as a position challenge if it has long-term implications.  
+Distinguishing a non-human creature or object can be simple if the creature or object is unique in the context, for example if there is only one dragon in the village. If the object or creature is not unique or the one attempting to distinguish them has no way to identify or communicate their unique characteristics, they can also be distinguished in other ways, such as “the *next* creature to come through the door” or “the *closest* light source.” By disguise, duplication or other means, a creature may attempt to prevent distinction of a target, such as the case with the cup and ball game. Rather than have the player choose arbitrarily such as “the middle cup”, they can make a check to distinguish the target in the same way they might make a check to sense it in the first place. Similarly, once distinguished, the target bears the burden of taking the action to make itself ambiguous once more.  
+Each arena has idiosyncratic guidelines on sensing and distinguishing a target:  
+Martial (tactical)  
+The target must be sensed and distinguished through the primary sense of the one targeting them.  
+Magic  
+The target must be sensed and distinguished through the primary sense of the one targeting them, unless the spell or other ability includes a provision for other methods.  
+Factions  
+The target must be able to be sensed by the creature types engaged in sensing them, even if they are not currently being observed. Rather than *distinguished*, the target must be *identified*.  
+Recon  
+The target must be able to be sensed by the sense engaged to target them. If they are difficult to distinguish, one recon point can be expended to make them distinct or give them an identity so they can be targeted through the other arenas.
+
+### Identity
+
+Whether for good or not, your identity is not your own. You are known by those around you, and not always in exactly the way you would like to be known. Controlling your identity is part of the Factions arena, with some overlap into Recon and Magic. Humans assign other humans an identity before even speaking to them and your reputation can precede you. Because of this, humans can always be *identified* by other humans by default, which is how they are targeted for faction actions such as investigations. You can target people using their identity such as their full name, but you can also use specifics such as “the guy who owns the laundromat” or general identifiers such as “whoever left this behind.” Notably, these identifiers do not apply to non-humanoids such as “Dave the bird” or “whichever cat buys a soup every Wednesday.”  
+A Persona is a collection of identifiers that all point to the same person. Characters typically only have one persona, but you can develop another persona as a faction asset.
+
+## Economics {#economics}
 
 ### GP
 
 While it is assumed that regions, factions, and even locales might have a particular form of currency, these different currencies are largely used in a practical sense to guide and restrict markets. You can usually only pay fines in the local currency, for example. Thus as a feature of market restriction rather than of wealth tabulation, currencies are integrated into the Round Table system of market tables and faction assets. To quickly and easily summarize the amount of wealth you can access, GP is used, which theoretically amounts to a day’s labour. In different cultures, different values of your daily wages may be accessible in different ways and different times, from grams of salt to digital wallets containing only debt, people are weird about how they imagine money, but we just use GP to roughly estimate the amount of stuff you can access at any given time. Just like a fancy L stands for pounds sterling, which is not pounds of silver but a complex digital fiat currency, GP stands for a days’ labour value.
 
-![][image1]  
+![][image5]  
 The GP sign
 
 ### Treasure
@@ -115,7 +153,7 @@ On the other hand, if you love logistics and hex-crawl style play, you can inven
 You are capable of carrying more than you should. If you have maxed out every inventory slot on yourself or any other creature or cart, your loadout is burdensome. This imposes a debuff on all rolls while a creature is so encumbered. You are only encumbered as long as you carry the items, so if you could conceivably just put the items down while you do the task you are not encumbered. You should not carry so much inventory that all your slots are full, or carry more than half your weight.  
 If it is unclear whether or not a given creature is capable of lifting or moving an object, the GM will have them make a graduating roll against the burden. The graduating roll indicates how long you can lift or carry the object for, starting with a roll to lift it and put it back down, then graduating to one round, one minute, and so on. A good rule of thumb is that this roll is required for any creature to lift more than its own weight, but certain strange creatures such as ants and jellies are more or less capable of carrying their own weight.
 
-## Geography
+## Geography {#geography}
 
 ### Regions
 
@@ -136,8 +174,13 @@ When establishing locales, avoid simply dictating that the things you need are i
 
 ### Travel
 
-When travelling, the first thing you should do is an inventory call, so you can ensure that you can carry everything you need. You next define your destination and how you can get there. Creatures, mounts and vehicles have strategic movement speeds, whereas platforms typically operate with an itinerary. You establish how long the travel will take, and how many resources must be used to complete it, adding in rests if you want. Usually, you will break travel down into consistent units, so if you are meant to walk, then drive, then sail, you will be considered to be travelling three separate times. Sometimes you are interrupted in the middle of your travel and have to engage in a new mode, so you must start your travel considerations over.  
+When travelling, the first thing you should do is an inventory call, so you can ensure that you can carry everything you need. You next define your destination and how you can get to your destination. Creatures, mounts and vehicles have strategic movement speeds, whereas platforms typically operate with an itinerary. You establish how long the travel will take, and how many resources must be used to complete it, adding in rests if you want. Usually, you will break travel down into consistent units, so if you are meant to walk, then drive, then sail, you will be considered to be travelling three separate times. Sometimes you are interrupted in the middle of your travel and have to engage in a new mode, so you must start your travel considerations over.  
 Once you have figured out what it will take to complete the travel, you can either consider it transactional: pass the time and resources necessary and be done with it, or your GM may design an adventure around it.
+
+### Resting
+
+Different geographies present different obstacles for resting, which is a key economic consideration in the game. Common environments often present opportunities for humans to rest, including safe locations and food with only the use of an ability or proficiency check that is low. Inhospitable environments are just that; they do not automatically present a solution to human habitation or resting. Often they are too hot, too cold, or even both. They can present no usable land to sleep on, and in addition to the inability to simply rest comfortably, there is no guarantee that there is any food at all available in an Inhospitable locale. Players entering into or travelling through an inhospitable environment need to make specific arrangements to rest or go without for the duration of their stay.  
+The Unseen Worlds, on the other hand, not only present no guarantees of food and comfort, but actually present environments that can be passively lethal, including scorching heat, hypothermic cold, noxious fumes, or even terrain like lava that harms you simply be being nearby. Those travelling the Unseen Worlds are expected not only to go without rest, but to perish unless they can take dramatic measures to both protect and provide for themselves.
 
 ### Mounts, Vehicles and Platforms
 
@@ -150,7 +193,4 @@ Platforms are very large objects or creatures that represent unique terrain that
 Platform challenges are challenges that take place between vehicles, platforms, and sometimes terrain or structures. For example, racing cars, using a helicopter to rappel into a cavern, or taking boarding actions from one boat to another would be considered Platform challenges.  
 Vehicles and platforms have statistics just like creatures. In fact, some vehicles and platforms are creatures. Both motorcycles and horses are mounts, both elephants and cars are vehicles, both huge dragons and helicopters are platforms. Platforms and vehicles have components like creatures have limbs, so you can target them to impose specific conditions such as immobilized, or to knock out a specific capacity such as a mounted weapon, however platforms can generally not be targeted by light weapons like bows and guns, they must be targeted by heavy weaponry, like-platform mounted machine guns or rockets.  
 Boarding from one platform to another, or otherwise maneuvering off your platform or onto another is generally treated as a regular maneuver. If you are removed from platforms, structures, vehicles, and have no way to impact the platform challenge (you have no heavy weapons and can’t reasonably reach a platform), you are effectively incapacitated from the challenge.  
-Maneuvering on platforms can usually be achieved by the move around maneuver, but such movement can be hampered by the very restrictive structure of the platform and the presence of many opponents in a tiny area. In effect, you can usually consider any change of position while on a platform, especially a hostile one, to be considered both risky movement and squeezing.  
-
-
-[image1]: <data:image/png;base64,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>
+Maneuvering on platforms can usually be achieved by the move around maneuver, but such movement can be hampered by the very restrictive structure of the platform and the presence of many opponents in a tiny area. In effect, you can usually consider any change of position while on a platform, especially a hostile one, to be considered both risky movement and squeezing.
