@@ -1,4 +1,4 @@
-# Chapter 2: Character Creation {#chapter-2:-character-creation}
+Character Creation
 
 Your character is defined by three interconnected parts: their personality, their background, and their skills. None of these parts can be created in a vacuum, so it is impossible to generate a character without a context; both their party and the wider world.
 
