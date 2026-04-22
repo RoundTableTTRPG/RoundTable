@@ -1,4 +1,6 @@
-# Creature Types
+# Appendix {#appendix}
+
+## The Section Detailing All Creature Types {#the-section-detailing-all-creature-types}
 
 ### Terrestrials
 
@@ -137,7 +139,7 @@ They gain no benefit from transforming back and forth, such as healing or restor
 **Swarms**  
 Swarms are groups of creatures that behave communally. They communicate with one another in an extremely organized and fast way, without individuality. This allows each member of a swarm to act as an appendage to the swarm itself, but they cannot make individual judgements. A swarm is a single creature with multiple manifestations or bodies, such as a school of fish. The swarm behaves fundamentally differently than the individual and will have a different stat block than the individual. A member of a swarm who is not in current communication with the swarm is considered and individual. For this reason, environmental and magical attacks that impact swarm communication can dissolve a swarm without impacting individuals.
 
-# Terrain Types
+## The Section Detailing All the Different Terrain Types {#the-section-detailing-all-the-different-terrain-types}
 
 ### Common Environments
 
@@ -147,7 +149,7 @@ These are places that are friendly to human habitation, and so places where huma
 A character trained in the forest terrain passes through the terrain of a forest floor as natural movement. They are also naturally capable of climbing trees, poles and other similar surfaces.
 
 **Urban** environments are characterized by the alterations that humanoids have made to the natural setting. Whether they are human cities, kobold warrens or even dense farmland, creatures in an urban environment can hardly escape humanoid architecture. It takes a special mix of skills to make your way in an urban environment. Unlike natural worlds there is most often a great abundance of everything a humaniod might need to prosper, but this abundance is guarded behind norms, laws, social constructs and factions. An excellent urban ranger can find the commonalities between disparate peoples to earn or make their living in any urban centre, and even track people on the trackless cobblestones.  
-A character trained in urban terrain can pass through crowds, debris and unusual terrain such as rooftops that would normally constitute reckless movment as their natural movement. They can also climb walls and buildings, and maneuver small gaps, drops, and squeezes such as windows and other barriers caused by urban development.
+A character trained in urban terrain can pass through crowds, debris and unusual terrain such as rooftops that would normally constitute reckless movement as their natural movement. They can also climb walls and buildings, and maneuver small gaps, drops, and squeezes such as windows and other barriers caused by urban development.
 
 Whether it is the vast sahel, the steppe or the great prairie, enormous **Grasslands** can stretch for thousands of kilometers and constitute oceans or continents in their own right. It takes a skilled person to find sufficient food in this harsh environment, and often requires hunting large game over many miles. Moving unnoticed in steeply cut creek beds or badlands, and tracking those that do the same also requires a keen eye for life on the grasslands.  
 Those trained in grasslands can move great distances with ease. Your natural strategic speed is 10km, the same as a horse. You can also ride one type of mount as natural movement.
@@ -198,7 +200,7 @@ Those trained in Manatuana can naturally move on water vessels and can swim.
 Some say the world was once roamed only by primoridals, and that they created **Primordial Realms** for one another that now constitute various other environments. But sometimes, in places widely understood as sacred, a path will open to reveal a realm untouched by all that has transpired since this ancient time. If this primordial land’s guardian is peaceful, such a bountiful garden can seem to be a sublime Eden, and sometimes humanoids contrive a fate such that they will rise undead in these beautiful places once they die. If, on the other hand, this realm’s sovereign is wrathful, a profound darkness seeps from this wound and contaminates the neighboring realms, and the primordial environment itself is a wasteland of polluted land, water and air, and its creatures are wretched abominations.  
 Those trained to walk primordial realms are natural acrobats who can leap, swing, and climb as natural movement. They can also naturally recognize a primordial who has shapeshifted or otherwise taken a more mundane form.
 
-# Glossary
+## Glossary {#glossary}
 
 **Ability \[Play|Spell|Asset|Strategy\]**  
 Abilities are discrete actions a creature can perform, sometimes with an associated energy, supply or social credit cost that have a mechanical effect.  
@@ -286,6 +288,9 @@ The numbers that appear on the dice when they are rolled such as 8-11 or 2-7.
 **Sense \[Primary\]**  
 The ability that a creature uses to perceive the world. All creatures have a primary sense, which is specifically defined if it is not equivalent to human vision. The primary use of a sense is to designate targets, so a creature must be obscured from its opponents primary sense to avoid being targeted. A creature can use non-primary senses to try to designate targets, but does so within the limits of that sense and without proficiency.
 
+**Skill**  
+A pre-determined set of proficiencies and sometimes abilities that defines a traditional practice or art within one of the 4 arenas of play.
+
 **Social Credit \[Max\]**  
 Some combination of your charisma, wealth, family background, fame, and the myriad other things that guide peoples’ perception of you and your ability to get people to do what you want.  
 Humans start with 1 max social credit and can add additional social credit by using  levelling points, representing their increased fame, wealth, knowledge, or skill in social circles.
@@ -299,4 +304,4 @@ Humans’ primary sense is sight, but we also have considerable spatial sense. F
 
 **Time \[Tactical | Strategic\]**  
 Tactical time takes place in discrete rounds, with each opposing side taking one turn each round to undertake their tactical maneuvers and actions. Overall, tactical challenges usually take less than one minute, with each round representing a few seconds. Tactical challenges usually address tactically relevant uncertainties, for example rushing to get onto a train that is currently departing. Generally, martial actions are tactical (take a few seconds) unless otherwise stated or narratively obvious.  
-Strategic time takes longer. The intervals are one hour, in which time all parties simultaneously conduct their strategic actions. If there is an uncertainty when it comes to which such actions take place first, the answer is usually resolved tactically. For example, if two parties are trying to get to a nearby town, a tactical challenge to board the train may determine which party arrives minutes before the other. Generally, Faction and Recon checks are strategic (take one hour) unless otherwise stated or narratively obvious.  
+Strategic time takes longer. The intervals are one hour, in which time all parties simultaneously conduct their strategic actions. If there is an uncertainty when it comes to which such actions take place first, the answer is usually resolved tactically. For example, if two parties are trying to get to a nearby town, a tactical challenge to board the train may determine which party arrives minutes before the other. Generally, Faction and Recon checks are strategic (take one hour) unless otherwise stated or narratively obvious.
