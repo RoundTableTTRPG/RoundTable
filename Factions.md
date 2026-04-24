@@ -24,7 +24,7 @@ Relations are the actions we take concerning another entity, whether it’s a fa
 
 Relations are unilateral, they describe how one entity acts toward another. Relationships are the sum of the relations between two or more entities. With only 6 categories of relations and the ability to dip into and borrow from neighboring relations, a near-infinite number of relationships might exist concerning any number of entities.
 
-## That Page Where All The Faction Relations Are Listed {#that-page-where-all-the-faction-relations-are-listed}
+## That Page Where All The Faction Relations Are Listed
 
 #### Relations Categories
 
