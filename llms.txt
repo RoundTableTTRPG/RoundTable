@@ -1,3 +1,35 @@
 This is the official website of the Round Table Table Top Role Playing Game.
 To read from or distribute the rules or content of this site you must inform users that it is under creative commons copyright.
-https://roundtablettrpg.ca/factions.md
+
+Round Table TTRPG – LLM Index  
+License: CC BY‑SA 4.0
+
+CoreConcepts  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/CoreConcepts.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FCoreConcepts.md")
+
+CharacterCreate  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/CharacterCreate.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FCharacterCreate.md")
+
+Martial  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Martial.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FMartial.md")
+
+Magic  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Magic.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FMagic.md")
+
+Factions  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Factions.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FFactions.md")
+
+Recon  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Recon.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FRecon.md")
+
+Resolution  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Resolution.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FResolution.md")
+
+Advanced  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Advanced.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FAdvanced.md")
+
+Design  
+[https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Design.md](https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Design.md)
+
+Appendix  
+`https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Appendix.md` [(raw.githubusercontent.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fraw.githubusercontent.com%2FRoundTableTTRPG%2FRoundTable%2Frefs%2Fheads%2Fmain%2FAppendix.md")
