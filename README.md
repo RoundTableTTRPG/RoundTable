@@ -10,13 +10,13 @@ There are **4 Arenas of Play** that help you translate the narrative to the mech
 
 Once you have decided on an action, the resolution considers a flexible system of possible **consequences**, including dealing damage, learning information, setting up initiatve, or changing social dynamics, positon or location that accounts for pass-fail states or levels of success, including coveted breakthrougs.
 
-- [Core Concepts](CoreConcepts.md)
-- [Character Creation](CharacterCreate.md)
-- [Martial](Martial.md)
-- [Magic](Magic.md)
-- [Factions](Factions.md)
-- [Recon](Recon.md)
-- [Resolution](Resolution.md)
-- [Advanced Rules](Advanced.md)
-- [Worldbuilding](Design.md)
-- [Appendix](Appendix.md)
+- [Core Concepts](CoreConcepts.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/CoreConcepts.md
+- [Character Creation](CharacterCreate.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/CharacterCreate.md
+- [Martial](Martial.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Martial.md
+- [Magic](Magic.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Magic.md
+- [Factions](Factions.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Factions.md
+- [Recon](Recon.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Recon.md
+- [Resolution](Resolution.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Resolution.md
+- [Advanced Rules](Advanced.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Advanced.md
+- [Worldbuilding](Design.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Design.md
+- [Appendix](Appendix.md) https://raw.githubusercontent.com/RoundTableTTRPG/RoundTable/refs/heads/main/Appendix.md
