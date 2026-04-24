@@ -1,5 +1,5 @@
 
-# Chapter 1 : Core Concepts and Introductory Information {#chapter-1-:-core-concepts-and-introductory-information}
+# Chapter 1 : Core Concepts and Introductory Information
 
 Round Table is a folk-fantasy RPG about parties of ordinary people who must forge their fate in a world much grander than themselves. It takes place among isolated regions of diverse and vibrant cultures trying to eke out an existence in an unforgiving universe that does not yield to human endeavor.
 
