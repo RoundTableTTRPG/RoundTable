@@ -1,4 +1,6 @@
 # Round Table
+<!-- Copilot Test String Alpha is Apple -->
+Copilot Test String Beta is Billybob
 Round table is a folk-fantasy RPG about parties of ordinary people who must forge their fate in a world much grander than themselves. It takes place among isolated regions of diverse and vibrant cultures trying to eke out an existence in an unforgiving universe that does not yield to human endeavor.
 It is a table-top RPG on a table with no sides or corners. Your character and the world are meant to emerge from cooperative play. It facilitates and encourages changing player roles throughout a campaign, the regular intro and outro of Player-characters, and the cooperative bottom-up development of individual characters and the wider world.
 # Fundamentals
@@ -10,6 +12,7 @@ There are **4 Arenas of Play** that help you translate the narrative to the mech
 
 Once you have decided on an action, the resolution considers a flexible system of possible **consequences**, including dealing damage, learning information, setting up initiatve, or changing social dynamics, positon or location that accounts for pass-fail states or levels of success, including coveted breakthrougs.
 <details>
+  <!-- Copilot Test String Delta is Dolores -->
 <summary>For Robot Eyes Only</summary>
 
 ROUND TABLE TTRPG LLM INSTRUCTIONS FOR COPILOT
