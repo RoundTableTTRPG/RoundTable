@@ -1,8 +1,8 @@
-The “Magic” arena of play, dealing with all things arcane
+# The “Magic” arena of play, dealing with all things arcane
 
 Magic is a major component of Round Table, intended to be used for creative and lateral problem solving. The magic system can be somewhat difficult to master, and the possibilities of any given spell are often not apparent at first glance.
 
-## The Section Detailing Magic, its Characteristics and Uses {#the-section-detailing-magic,-its-characteristics-and-uses}
+## The Section Detailing Magic, its Characteristics and Uses
 
 ### Magic Checks
 
@@ -42,8 +42,6 @@ Spells use different components to be cast, being focus, material, or altar comp
 * Focus you must use a focus object, a type of magical equipment, to concentrate on the spell and target for the entire casting time and duration as your action. If you lose the ability to sense the target, or to take an action to maintain focus, or someone succeeds at a check against you with the goal of breaking your focus, the spell ends entirely.  
 * Material means you must use spell materials to cast the spell, however you do not need to maintain focus on the spell during its casting time or duration. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range or hide.  
 * Altar means you must use a tier-appropriate altar to cast the spell. This is usually in the possession of a faction. Altars cannot be moved and they can only be sanctified by factions. Only targets within range are affected, but the spell does not end if the targets or the caster leave the range. The caster must remain within the range while casting a spell, but does not need to focus for the casting time or duration.
-
-#### 
 
 #### Duration
 
